@@ -155,8 +155,112 @@ padding: 8px 19px;
   border: 10px solid #FFFFFF;
   border-radius: 10px;
   height: 104%;
+  margin-left: -71px;
 }
 #fourth{
   background: #E2BE60;
   border-radius: 20px;
+  width: 93%;
+  margin: auto;
+  padding: 22px 22px 0 22px;
+}
+#fourth button:nth-child(1) {
+  padding: 10px 18px;
+  border: 2px solid #FFFFFF;
+border-radius: 5px;
+background: #EFD880;
+color: #FFFFFF;
+margin-right: 12px;
+}
+#fourth button:nth-child(2) {
+  background: #D7A542;
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+  padding: 10px 18px;
+  color: #FFFFFF;
+  margin-right: 12px;
+}
+#fourth button:nth-child(3) {
+  border: 2px solid #FFFFFF;
+  background: #EFD880;
+  border-radius: 5px;
+  color: #FFFFFF;
+  padding: 10px 24px;
+  margin-right: 12px;
+}
+#fourth button:nth-child(4) {
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+  padding: 11px 18px;
+  color: #E2BE60;
+  background: #FFFFFF;
+  margin-right: 12px;
+}
+#fourth .pade{
+  margin-top: 49px;
+  font-size: 24px;
+  text-align: end;
+}
+#fourth h3{
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+color: #FFFFFF;
+}
+#fourth p{
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 49px;
+color: #FFFFFF;
+}
+#fourth .pad span{
+  font-style: normal;
+  font-weight: 300;
+  font-size: 27px;
+  line-height: 49px;
+  color: #FFFFFF;
+}
+#third .mager img{
+  margin-bottom: 92px;
+  height: 102%;
+  margin-left: 65px;
+}
+#five{
+  background-image: url('../img/Rectangle 49.png');
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+}
+#five h2{
+  text-align: center;
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 54px;
+color: #E2BE60;
+margin-bottom: 30px;
+}
+#five .okay{
+  background: #E2BE60;
+border-radius: 15px; 
+}
+#five .okay h2{
+  color: #FFFFFF;
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+padding: 1px 10px;
+}
+#five .okay{
+  padding: 9px;
+  text-align: center;
+}
+#five .eight{
+  background: radial-gradient(50% 475.4% at 50% 50%, rgba(245, 229, 144, 0) 0%, rgba(245, 229, 144, 0.32) 100%);
 }
