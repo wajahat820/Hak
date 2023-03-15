@@ -364,6 +364,215 @@ border-radius: 10px;
 #seven{
   background: #E2BE60;
 }
+#seven h4{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+#seven p{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+opacity: 0.8;
+}
 .blue{
   border-right: 1px solid white;
+}
+#seven{
+  padding: 40px 30px;
+}
+#seven .blue{
+  display: flex;
+}
+#seven .green button{
+  padding: 11px 18px;
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+  background: #E2BE60;
+  color: #FFFFFF;
+  margin-top: 27px;
+}
+#seven .ink{
+  display: flex;
+    margin-left: 56px;
+}
+.yellow{
+  margin-top: 50px;
+}
+#seven .blue p {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+opacity: 0.8;
+margin: 10px 26px;
+}
+#seven .ink p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FFFFFF;
+  opacity: 0.8; 
+  margin: 10px;
+}
+#nine button{
+  padding: 13px 251px;
+}
+#nine{
+  padding: 56px 0;
+}
+#nine h3{
+  font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+color: #000000;
+margin-bottom: 25px;
+}
+#nine h3 span{
+  color: #E2BE60;
+}
+#nine button {
+  color: white;
+  background-color: #E2BE60;
+  background: #E2BE60;
+}
+#nine .blu p{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+#nine .in p{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+#nine .blu span{
+  color: black;
+}
+#nine .blu p{
+  color: #E2BE60;
+    margin-left: 3px;
+}
+#nine .in span{
+  color: black;
+}
+#nine .in p{
+  color: #E2BE60;
+  margin-left: 3px;
+}
+#nine .in {
+  margin-left: 35px;
+  display: flex;
+}
+#nine .orange img{
+  margin-left: 29px;
+  padding: 10px 10px;
+}
+#nine .blu {
+  display: flex;
+}
+#nine p {
+  flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 15px;
+}
+#nine i{
+  margin-left: 2px;
+}
+#cap{
+  text-align: center;
+}
+#cap .de {
+  background: #D7A542;
+  padding: 25px;
+  border-radius: 10px 0px 0px 10px;
+}
+#cap .us {
+  background: #E2BE60;
+  padding: 25px;
+}
+#cap .uk {
+  background: #EFD980;
+  border-radius: 0px 10px 10px 0px;
+  padding: 25px;
+}
+#cap p{
+  font-family: 'Montserrat';
+  font-style: normal;
+font-weight: 650;
+    font-size: 11px;
+    line-height: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
+#cap .btn{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+color: #FFFFFF;
+padding: 10px 26px;
+border: 2px solid #FFFFFF;
+}
+#cap img{
+  margin-bottom: 15px;
+}
+#cap .col-md-2{
+  padding: 0;
+}
+#red a {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+}
+#red .qas{
+  text-align: center;
+  line-height: 40px;
+  background: #E2BE60;
+  padding: 8px;
+}
+#red .qas a {
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 450;
+font-size: 19px;
+line-height: 20px;
+color: #FFFFFF;
+}
+#red .qasw{
+  background: #D7A542;
+  padding: 9px;
+}
+#red .qasw p {
+  text-align: center;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+color: #FFFFFF;
+}
+#red{
+  padding: 54px;
 }
